@@ -1,12 +1,11 @@
 using UnityEngine;
 
-public class EnemyHealth : Health
+public class PlayerHealth : Health
 {
-
     protected override void Die()
     {
         base.Die();
-        Debug.Log("Enemy died");
+        Debug.Log("Player died");
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

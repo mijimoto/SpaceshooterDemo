@@ -5,6 +5,7 @@ public class Health : MonoBehaviour
     public GameObject explosionPrefab;
     public int defaultHealthPoint;
     private int healthPoint;
+    public System.Action onDead;
 
 private void Awake()
 {
@@ -12,10 +13,10 @@ private void Awake()
 }
     protected virtual void Die()
     {
-        var explosion = Instantiate(explosionPrefab, transform.position,
-        transform.rotation);
-        Destroy(explosion, 1);
-        Destroy(gameObject);
+    var explosion = Instantiate(explosionPrefab, transform.position, transform.rotation);
+Destroy(explosion, 1);
+Destroy(gameObject);
+onDead?.Invoke();
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Start() => healthPoint = defaultHealthPoint;

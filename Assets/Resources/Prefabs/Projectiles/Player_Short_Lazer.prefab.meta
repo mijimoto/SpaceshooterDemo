@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19e97a092cd6f9d4c83a4dea70bb7bae
+timeCreated: 1505805935
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107260
+  packageName: Space Shooter FREE
+  packageVersion: 1.0
+  assetPath: Assets/Space Shooter Template FREE/Prefabs/Projectiles/Player_Short_Lazer.prefab
+  uploadId: 218651

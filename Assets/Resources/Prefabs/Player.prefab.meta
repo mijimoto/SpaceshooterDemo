@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20f1883f53356d74ca9c470e40f9aa15
+timeCreated: 1509786162
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107260
+  packageName: Space Shooter FREE
+  packageVersion: 1.0
+  assetPath: Assets/Space Shooter Template FREE/Prefabs/Player.prefab
+  uploadId: 218651

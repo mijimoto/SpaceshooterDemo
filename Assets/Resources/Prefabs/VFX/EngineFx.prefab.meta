@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 12594740b44c2be4faedacfc5db6f2e8
+timeCreated: 1510364810
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107260
+  packageName: Space Shooter FREE
+  packageVersion: 1.0
+  assetPath: Assets/Space Shooter Template FREE/Prefabs/VFX/EngineFx.prefab
+  uploadId: 218651

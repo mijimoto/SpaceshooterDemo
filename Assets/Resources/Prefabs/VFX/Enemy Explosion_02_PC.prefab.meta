@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da0025e51a39adc4aa93ded84cbed6fe
+timeCreated: 1510356982
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107260
+  packageName: Space Shooter FREE
+  packageVersion: 1.0
+  assetPath: Assets/Space Shooter Template FREE/Prefabs/VFX/Enemy Explosion_02_PC.prefab
+  uploadId: 218651

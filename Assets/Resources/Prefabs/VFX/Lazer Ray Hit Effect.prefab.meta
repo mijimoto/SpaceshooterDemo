@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1fe9af3e3cf9db4298e0ee5a6f1c840
+timeCreated: 1510302678
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107260
+  packageName: Space Shooter FREE
+  packageVersion: 1.0
+  assetPath: Assets/Space Shooter Template FREE/Prefabs/VFX/Lazer Ray Hit Effect.prefab
+  uploadId: 218651

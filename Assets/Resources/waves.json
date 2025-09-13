@@ -1,0 +1,26 @@
+{"waves": [
+  {
+    "enemyPrefabPath": "Prefabs/Enemies/Enemy_01 (1) Variant",
+    "flyPathPrefabPath": "Prefabs/Enemies/FlyPath",
+    "numberOfEnemy": 10,
+    "formationOffset": { "x": 1.0, "y": 0 },
+    "speed": 2.0,
+    "nextWaveDelay": 1.0
+  },
+  {
+    "enemyPrefabPath": "Prefabs/Enemies/Enemy_01 (2) Variant Variant",
+    "flyPathPrefabPath": "Prefabs/Enemies/FlyPath (1)",
+    "numberOfEnemy": 6,
+    "formationOffset": { "x": 3.0, "y": 1.0 },
+    "speed": 1.0,
+    "nextWaveDelay": 2.0
+  },
+  {
+    "enemyPrefabPath": "Prefabs/Enemies/Enemy_01 (2) Variant",
+    "flyPathPrefabPath": "Prefabs/Enemies/FlyPath (2)",
+    "numberOfEnemy": 7,
+    "formationOffset": { "x": 6.0, "y": 2.0 },
+    "speed": 2.5,
+    "nextWaveDelay": 3.0
+  }
+]}

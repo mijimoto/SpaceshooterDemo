@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a9b1f949ee7e1e42a7ccbf2d88ab0dc
+timeCreated: 1508350051
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107260
+  packageName: Space Shooter FREE
+  packageVersion: 1.0
+  assetPath: Assets/Space Shooter Template FREE/Prefabs/VFX/Muzzle FX.prefab
+  uploadId: 218651

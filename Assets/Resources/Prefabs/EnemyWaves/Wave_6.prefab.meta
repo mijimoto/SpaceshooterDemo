@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 01fb09c3cd0221048bb922d483680b3a
+timeCreated: 1513284051
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107260
+  packageName: Space Shooter FREE
+  packageVersion: 1.0
+  assetPath: Assets/Space Shooter Template FREE/Prefabs/EnemyWaves/Wave_6.prefab
+  uploadId: 218651
